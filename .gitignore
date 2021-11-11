@@ -99,6 +99,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 owners.py
+*.pyc
 
 # IPython
 profile_default/
