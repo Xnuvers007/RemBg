@@ -102,6 +102,7 @@ owners.py
 # IPython
 profile_default/
 ipython_config.py
+config.py
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
@@ -117,6 +118,7 @@ ipython_config.py
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
+__pycache__
 
 # Celery stuff
 celerybeat-schedule
