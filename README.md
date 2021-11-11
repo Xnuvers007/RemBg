@@ -23,7 +23,7 @@ git clone https://github.com/Xnuvers007/RemBg
 
 cd RemBg
 
-python3 main.py
+python3 main2.py
 
 jangan lupa sebelumnya membuat folder RemoveBG dan hasil >> di C:/Users/(Nama komputer)/RemoveBG/hasil
 
