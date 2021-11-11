@@ -29,7 +29,7 @@ try:
 except FileExistsError:
     pass
 
-jeda = input("ini adalah penjedaan, silahkan masukan file foto yang ingin diubah backgroundnya ke dalam folder C:\Users\(nama username laptopmu)\RemoveBG, jika sudah silahkan enter : ")
+jeda = input("ini adalah penjedaan, silahkan masukan file foto yang ingin diubah backgroundnya ke dalam folder C:\\Users\\(nama username laptopmu)\\RemoveBG, jika sudah silahkan enter : ")
     
 # Folder Gambar Ori / Asli
 filepath = 'C:\\Users\\{}\\RemoveBG'.format(asa)
@@ -62,7 +62,7 @@ a = "Jangan Lupa setelah diubah backgroundnya , langsung pindahkan ke folder yan
 b = "Untuk versi Linux masih tahap pengembangan (Mungkin lama) dikarenakan saya Sedang Membuat tools Osint".upper()
 c = "Kalau ingin kontribusi dan membantu saya, silahkan dan saya berterimakasih banget :) ".upper()
 d = "Saya tidak terima adanya perecodean tetapi saya terima adanya kontribusi atau pengembangan yang disertai nama saya".upper()
-print(a."\n",b,"\n",c)
+print(a,"\n\n",b,"\n\n",c,"\n\n")
 input("enter Untuk Melanjutkan")
 
 # Your Remove.bg Api Key
@@ -92,7 +92,7 @@ for thefile in os.listdir(filepath):
 		print("Error:", response.status_code, response.text)
 
 
-fileOri = "C:\Users\(username)\RemoveBG"
-fileEdit = "C:\Users\LuckySora007\RemoveBG\hasil"
+fileOri = f"C:\\Users\\{asa}\\RemoveBG"
+fileEdit = f"C:\\Users\\{asa}\hasil"
 print("File Original = ",fileOri)
 print("File Edit = ",fileEdit)
