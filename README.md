@@ -1,3 +1,11 @@
+![Programming](https://img.shields.io/github/languages/top/Xnuvers007/RemBg?color=red&logo=python&logoColor=orange "python")
+![Code Size](https://img.shields.io/github/languages/code-size/xnuvers007/RemBg "code size")
+![repo size](https://img.shields.io/github/repo-size/xnuvers007/RemBg?color=green "Repo Size")
+![License](https://img.shields.io/github/license/xnuvers007/RemBg?color=blue&logo=samsung&logoColor=red&style=plastic "License")
+![Stars](https://img.shields.io/github/stars/xnuvers007?affiliations=OWNER&color=blue&label=github&logo=github&logoColor=blue&style=social "My Stars")
+![Version](https://img.shields.io/github/v/tag/xnuvers007/RemBg "Tag Version")
+
+
 # RemBg
 ini adalah program python untuk mengubah background foto dalam 1 folder, tidak perlu satu satu
 
