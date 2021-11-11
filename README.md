@@ -27,6 +27,8 @@ python3 main2.py
 
 jangan lupa sebelumnya membuat folder RemoveBG dan hasil >> di C:/Users/(Nama komputer)/RemoveBG/hasil
 
+dan jangan lupa masukan foto yang sebelum diedit diletakan ke folder RemoveBG dan hasilnya akan ada di folder hasil
+
 terimakasih
 
 copyright by Xnuvers007
