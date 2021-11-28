@@ -6,10 +6,10 @@
 ![Version](https://img.shields.io/github/v/tag/xnuvers007/RemBg "Tag Version")
 ![Github Uptime Monitoring](https://img.shields.io/uptimerobot/ratio/m789702694-8f731923aae2b25359d5ae56 "My github monitoring")
 
-<center>
+
   ![Open Issue](https://img.shields.io/github/issues/xnuvers007/RemBg)
   ![Closed Issue](https://img.shields.io/github/issues-closed/Xnuvers007/RemBg)
-</center>
+  
 
 Myherokuapp ![Herokuapp](https://img.shields.io/uptimerobot/ratio/m789702776-4d37fcaadf8744cce28de867 "My Heroku")
 
