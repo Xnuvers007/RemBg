@@ -62,7 +62,7 @@ a = "Jangan Lupa setelah diubah backgroundnya , langsung pindahkan ke folder yan
 B = "Untuk versi Linux masih tahap pengembangan (Mungkin lama) dikarenakan saya Sedang Membuat tools Osint".upper()
 c = "Kalau ingin kontribusi dan membantu saya, silahkan dan saya berterimakasih banget :) ".upper()
 d = "Saya tidak terima adanya perecodean tetapi saya terima adanya kontribusi atau pengembangan yang disertai nama saya".upper()
-print(a,"\n\n",B,"\n\n",c,"\n\n")
+print(a,"\n\n",B,"\n\n",c,"\n\n",d)
 input("enter Untuk Melanjutkan")
 
 # Your Remove.bg Api Key
