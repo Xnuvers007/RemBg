@@ -11,4 +11,6 @@ own = ['C11K4kWoRkPotbh6fk5y8SHj',
        '6Mi1bsr8eHH13sizGeZvpWKK',
        'W6EWZMXTzvRXHhNa14chkbmg',
        'v6DyB7bsKwg2GGNjiMPTzwqJ',
+       'm291Cg6yQsPmADofC6KxF6x7',
+       'N5aJtZgF9fBf2szSwfKgc1X5'
        ]
