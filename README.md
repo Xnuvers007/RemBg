@@ -48,3 +48,10 @@ inspirated by https://web.facebook.com/100004730406019/videos/319545256251072/
 ![Image 1](https://github.com/Xnuvers007/RemBg/blob/main/image/image2%20(1).jpg "gambar")
 
 ![Image 2](https://github.com/Xnuvers007/RemBg/blob/main/image/image2%20(2).jpg "gambar2")
+
+# Stargazers overtime
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Xnuvers007/RemBg.svg)](https://starchart.cc/Xnuvers007/RemBg)
+
